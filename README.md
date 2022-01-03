@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @vsdhaliwal
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me vsdhaliwal2003@gmail.com
+class VikramjeetSinghDhaliwal():
+    
+  def __init__(self):
+    self.name = "Vikramjeet Singh Dhaliwal";
+    self.username = "vsdhaliwal";
+    self.location = "New Delhi, India";
+  
+  def __str__(self):
+    return self.name
 
+if __name__ == '__main__':
+    me = VikramjeetSinghDhaliwal()
