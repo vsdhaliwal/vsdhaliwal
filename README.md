@@ -5,6 +5,8 @@ class VikramjeetSinghDhaliwal():
     self.name = "Vikramjeet Singh Dhaliwal";
     self.username = "vsdhaliwal";
     self.location = "New Delhi, India";
+    self.email = "vsdhaliwal2003@gmail.com";
+    self.phone = "Hidden";
   
   def __str__(self):
     return self.name
