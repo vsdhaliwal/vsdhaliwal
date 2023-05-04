@@ -14,5 +14,3 @@ class VikramjeetSinghDhaliwal():
 if __name__ == '__main__':
     me = VikramjeetSinghDhaliwal()
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=vsdhaliwal&show_icons=true" />
